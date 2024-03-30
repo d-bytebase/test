@@ -1,0 +1,1 @@
+create table hello0140(id integer);
